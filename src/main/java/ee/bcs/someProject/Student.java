@@ -2,5 +2,5 @@ package ee.bcs.someProject;
 
 public class Student {
     // mingid muutjad
-    // adsasdasdasd
+    // lisasime mingid meetodit
 }
